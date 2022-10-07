@@ -47,7 +47,7 @@ body{
   color: var(--nav-color);
 }
 .email, .tel{
-  color: var(--nav-color);
+  color: var(--main-color);
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
